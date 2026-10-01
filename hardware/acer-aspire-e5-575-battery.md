@@ -10,7 +10,8 @@
   * **Voltage:** 14.8V
   * **Capacity:** 2800 mAh / 41.4 Wh
 
-![Overview & Parts](../images/01-overview.jpg)
+<img width="1536" height="2048" alt="ZH-SIii8" src="https://github.com/user-attachments/assets/3809aea4-d3a5-44bc-ac6e-1ba4339b7ab1" />
+
 
 ---
 
@@ -21,7 +22,8 @@
 - [ ] Replacement Battery (Model AS16A5K / AS16A8K)
 - [ ] Parts Organizer / Magnetic Mat
 
-![Tools Layout](../images/02-tools.jpg)
+<img width="1536" height="2048" alt="p-sBwMeS" src="https://github.com/user-attachments/assets/1704d833-309e-4116-871c-246ea058e67b" />
+
 
 ---
 
@@ -41,7 +43,8 @@
 2. Remove the three (3) Phillips head screws securing the lower access door.
 3. Use a plastic pry tool to gently lift and remove the compartment door.
 
-![RAM Access Door](../images/03-access-door.jpg)
+<img width="1536" height="2048" alt="7nL-o6MP" src="https://github.com/user-attachments/assets/72824730-cc68-474a-9917-3dec49847d9a" />
+
 
 ---
 
@@ -50,7 +53,8 @@
 2. Slide the optical drive straight out of the slot.
 3. Remove the remaining Phillips head screws securing the bottom case.
 
-![Case Screws](../images/04-case-screws.jpg)
+<img width="1536" height="2048" alt="PKPX2rC1" src="https://github.com/user-attachments/assets/f5ff744a-c3fb-4949-9071-bbbd28eff6d4" />
+
 
 ---
 
@@ -59,7 +63,8 @@
 2. Carefully pry along the edges to release the plastic clips.
 3. Lift the bottom cover away.
 
-![Separate Case](../images/05-separate-case.jpg)
+<img width="2048" height="1536" alt="rbH52KP-" src="https://github.com/user-attachments/assets/a3143a3b-a562-497d-8b8f-445661f6d22d" />
+
 
 ---
 
@@ -69,7 +74,8 @@
 3. Remove the mounting screws securing the battery frame.
 4. Lift the old battery out.
 
-![Remove Battery](../images/06-remove-battery.jpg)
+<img width="1536" height="2048" alt="dljGVpPk" src="https://github.com/user-attachments/assets/0dc65f90-33bd-4391-ada6-6828e4382526" />
+
 
 ---
 
@@ -79,7 +85,11 @@
 3. Firmly connect the new battery cable into the motherboard socket.
 4. Snap the bottom cover back on, reinstall all screws, optical drive, and access door.
 
-![New Battery Installed](../images/07-new-battery.jpg)
+<img width="2048" height="1536" alt="MxRG4UED" src="https://github.com/user-attachments/assets/7c90e0aa-7652-40f8-8821-a9b53967ccec" />
+<img width="1536" height="2048" alt="q-a9XoBV" src="https://github.com/user-attachments/assets/cb5f4a5d-b3fd-4be2-8116-80093789f37a" />
+
+
+
 
 ---
 
